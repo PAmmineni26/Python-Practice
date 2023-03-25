@@ -1,0 +1,11 @@
+str = "Welcome to my blog"
+print(str [3 : 18])
+print(str[ 2 : 14 : 2])
+print(str [ : 8 ])
+print(str[8 : -1 : 1])
+print(str [-9 : -15])
+print(str[0 : 9 : 3])
+print(str[9 : 29 : 2])
+print(str[-6 : -9 : -3])
+print(str[-9 : -9 : -1])
+print(str[8 : 25 : 3])

@@ -1,0 +1,18 @@
+s = "COMPUTER SCIENCE"
+print("4th Char in the String: ",s[3])
+print("2th to 10th char in String: ",s[2:11])                     # Start= 0, Step = end of string , Stop = 1
+print("Every 4th char in String: ",s[0:30:4])
+print("Reverse Order: ",s[-1:-30:-1])
+print("2nd Char in Reverse order: ",s[-1:-30:-2])
+print("Lenght of String: ",len(s))
+print(s[::-1])
+print(s[3:len(s)+1:2])
+print(s[:7:2])
+print(s[2::3])
+print(s[::])
+print(s[::3])
+print(s[::-1])
+print(s[-4:-10:-1])
+print(s[-3::-1])
+print(s[::-1])
+print(s[:-len(s):-1])
